@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: maptf_pub
+Description: Description of maptf_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

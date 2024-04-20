@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/catkin_ws/src/ORB_SLAM2_hh1/Examples/ROS/ORB_SLAM21_mod1/build/devel/setup.sh

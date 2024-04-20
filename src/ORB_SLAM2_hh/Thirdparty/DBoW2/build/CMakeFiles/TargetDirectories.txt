@@ -1,0 +1,3 @@
+/home/ubuntu/catkin_ws/src/ORB_SLAM2_hh/Thirdparty/DBoW2/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/catkin_ws/src/ORB_SLAM2_hh/Thirdparty/DBoW2/build/CMakeFiles/DBoW2.dir
+/home/ubuntu/catkin_ws/src/ORB_SLAM2_hh/Thirdparty/DBoW2/build/CMakeFiles/edit_cache.dir
